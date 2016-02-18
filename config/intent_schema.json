@@ -1,0 +1,20 @@
+{
+    "intents": [
+        {
+            "intent": "PickWinnerIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.HelpIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.StopIntent",
+            "slots": []
+        },
+        {
+            "intent": "WelcomeIntent",
+            "slots": []
+        }
+    ]
+}

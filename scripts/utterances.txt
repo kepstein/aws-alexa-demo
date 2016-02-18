@@ -1,0 +1,11 @@
+PickWinnerIntent pick a winner
+PickWinnerIntent pick another winner
+PickWinnerIntent pick our last winner
+PickWinnerIntent pick our final winner
+PickWinnerIntent pick our first winner
+PickWinnerIntent pick our second winner
+PickWinnerIntent pick our third winner
+WelcomeIntent Hello
+WelcomeIntent how does this work
+WelcomeIntent how will the draw work
+WelcomeIntent what are we going to do
